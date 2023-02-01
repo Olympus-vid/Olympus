@@ -1,4 +1,0 @@
-Dependencies for the backend:
- - pip install flask
- - pip install git+http://github.com/openai/whisper.git
- - pip install flask_cors
