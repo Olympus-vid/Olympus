@@ -1,7 +1,7 @@
 To build:
     In root:
         python3 dependencies.py
-        python3 transcribe.py
+        python3 whisperValue.py
         python3 app.py
     In frontend:
         npm run build 
